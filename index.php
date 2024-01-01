@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Cek git lagi</h1>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus, laborum repudiandae ducimus hic error ab expedita iure explicabo quibusdam similique.</p>
 </body>
 </html>
